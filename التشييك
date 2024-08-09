@@ -1,0 +1,109 @@
+
+<!DOCTYPE html>
+<!-- saved from url=(0033)https://ameeralimi.github.io/275/ -->
+<html class="no-js" lang="ar" dir="rtl"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <meta name="description">
+    <title>نتيجة الفحص الفني الدوري</title>
+    <link rel="icon" href="https://ameeralimi.github.io/275/logo.png">
+    <link rel="stylesheet" href="./نتيجة الفحص الفني الدوري_files/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+<link href="./نتيجة الفحص الفني الدوري_files/css2" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+    <link href="./نتيجة الفحص الفني الدوري_files/css2(1)" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="https://ameeralimi.github.io/favicon.ico">
+    <script type="text/javascript" async="" src="./نتيجة الفحص الفني الدوري_files/js"></script><script async="" src="./نتيجة الفحص الفني الدوري_files/gtm.js.تنزيل"></script><script async="" src="./نتيجة الفحص الفني الدوري_files/gtm.js.تنزيل"></script>
+    
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NVNZNBS');
+    </script>
+    <!-- <link rel="stylesheet" href="styles.926ab8fe8415ea7f972d.css"> -->
+    <style>
+        
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NVNZNBS" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <app-root ng-version="8.2.13">
+        <router-outlet></router-outlet>
+        <app-vehicle-sticker>
+            <div class="vehicle-stickerPage">
+                <img alt="salamah-logo" class="logo" src="./نتيجة الفحص الفني الدوري_files/salamah-logo.svg">
+                <div class="vehicle-sticker valid" id="vehicle-sticker">
+                    <div class="sticker-header valid" id="sticker-header">
+                        <img class="valid-img" src="./نتيجة الفحص الفني الدوري_files/valid.svg">
+                        <div id="card-text">صالح وساري</div>
+                    </div>
+                    <div class="card-content">
+                        <div class="card-row">
+                            <label>رقم اللوحة :</label>
+                            <div>2841ZXR</div>
+                        </div>
+                        <div class="card-row">
+                            <label>رقم الهيكل :</label>
+                            <div>WDB6541331K226506</div>
+                        </div>
+                        <div class="card-row">
+                            <label>الشركة الصانعة :</label>
+                            <div>مرسيدس</div>
+                        </div>
+                        <div class="card-row">
+                            <label>نوع السيارة :</label>
+                            <div>شاحنه عادي</div>
+                        </div>
+                        <div class="card-row">
+                            <label>تاريخ الفحص:</label>
+                            <div id="creationDate">08/09/2024</div>
+                        </div>
+                        <div class="card-row">
+                            <label>مركز الفحص:</label>
+                            <div> الأحساء</div>
+                        </div>
+                        <div class="card-row">
+                            <label>نوع الخدمة:</label>
+                            <div>خدمة الفحص الدوري</div>
+                        </div>
+                        <div class="card-row">
+                            <label>تاريخ انتهاء صلاحية الفحص:</label>
+                            <div id="expireDate">08/02/2025</div>
+                        </div>
+                    </div>
+                </div>
+                <footer>
+                    <div class="saudi-logo"><img src="./نتيجة الفحص الفني الدوري_files/saudi.svg"></div>
+                    <div class="vision-logo"><img src="./نتيجة الفحص الفني الدوري_files/2030.svg"></div>
+                </footer>
+            </div>
+        </app-vehicle-sticker>
+        <app-loader></app-loader>
+    </app-root>
+
+    <script src="./نتيجة الفحص الفني الدوري_files/runtime-es2015.6336175078bb83206560.js.تنزيل" type="module"></script>
+    <script src="./نتيجة الفحص الفني الدوري_files/runtime-es5.6336175078bb83206560.js.تنزيل" nomodule="" defer=""></script>
+    <script src="./نتيجة الفحص الفني الدوري_files/polyfills-es5.a30ed0a1b8404f23a672.js.تنزيل" nomodule="" defer=""></script>
+    <script src="./نتيجة الفحص الفني الدوري_files/polyfills-es2015.e9a0057c77453596de63.js.تنزيل" type="module"></script>
+    <script src="./نتيجة الفحص الفني الدوري_files/main-es2015.52daa0f83b8dc5bf9446.js.تنزيل" type="module"></script>
+    <script src="./نتيجة الفحص الفني الدوري_files/main-es5.52daa0f83b8dc5bf9446.js.تنزيل" nomodule="" defer=""></script>
+
+
+
+<deepl-input-controller><template shadowrootmode="open"><link rel="stylesheet" href="chrome-extension://cofdbpoegempjloogbagkncekinflcnj/build/content.css"><div dir="ltr" style="visibility: initial !important;"><div class="dl-input-translation-container svelte-95aucy"><div></div></div></div></template></deepl-input-controller></body></html>
